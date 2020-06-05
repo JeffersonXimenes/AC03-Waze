@@ -1,5 +1,7 @@
 # AC03 Waze
 
+Lembrando que para o funcionamento da API é necessário instalar: pip install flask_materialize
+
 - Anderson Taborga - RA:1801922
 - Anna Veloso - RA: 1801230
 - Gabriel Bezerra - RA:1801171
