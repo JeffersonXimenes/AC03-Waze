@@ -1,4 +1,4 @@
-# AC3_Waze
+# AC03 Waze
 
 - Anderson Taborga - RA:1801922
 - Anna Veloso - RA: 1801230
